@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Official%20Site-fastup.by-0070f3?style=flat-square)](https://fastup.by/)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@fastupby-2CA5E0?style=flat-square&logo=telegram)](https://t.me/s/fastupby)
-[![GEO Standard](https://img.shields.io/badge/Standard-FastUp%20GAS-emerald?style=flat-square)](https://fastup.by/geo-audit-system/)
+[![GEO Standard](https://img.shields.io/badge/Standard-FastUp%20GAS-emerald?style=flat-square)](https://fastup.by/geo-audit-system/?utm_source=github&utm_medium=post&utm_campaign=gas)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q140964144-informational?style=flat-square)](https://www.wikidata.org/wiki/Q140964144)
 
 ---
@@ -32,7 +32,7 @@
 - **`PCL`** *(Person-Company Link)* — процедура связывания личности и бренда без подсказок.
 - **`SCG`** *(Search-Citation Gap)* — разрыв между ТОП-10 органики и цитированием в ИИ.
 
-📖 [Документация и спецификация стандарта FastUp GAS](https://fastup.by/geo-audit-system/)  
+📖 [Документация и спецификация стандарта FastUp GAS](https://fastup.by/geo-audit-system/?utm_source=github&utm_medium=post&utm_campaign=gas)  
 💻 [Репозиторий скрипта FastUp GAS CLI](https://github.com/FastUpBy/fastup-gas)
 
 ### 2. [MicroApps.by — No-DB Lightweight Web Platform](https://github.com/FastUpBy/microapps.by)
@@ -40,7 +40,7 @@
 - **0 вложений в платную рекламу $\rightarrow$ 1500+ органических визитов в месяц** из Google и Яндекса.
 - 100/100 Google PageSpeed, нулевой сдвиг макета (CLS 0.00).
 
-📖 [Разбор архитектуры и кейса на fastup.by](https://fastup.by/?p=2421)  
+📖 [Разбор архитектуры и кейса на fastup.by](https://fastup.by/kak-ya-napisal-svoi-instrumenty-na-chistom-php-bez-bd-i-s-nulya-poluchil-1500-organiki-v-mesyats/?utm_source=github&utm_medium=post&utm_campaign=microapps-case)  
 💻 [Репозиторий MicroApps.by](https://github.com/FastUpBy/microapps.by)
 
 ---
